@@ -7,3 +7,5 @@ tmp
 .idea
 .tag
 .tag*
+*.sublime-project
+*.sublime-workspace
